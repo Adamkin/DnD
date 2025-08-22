@@ -18,8 +18,8 @@
             transition: all 0.2s ease-in-out;
         }
         .nav-button.active {
-            background-color: #775100; /* amber-600 */
-            color: #ffffff;
+            background-color: #004177; /* amber-600 */
+            color: #800322;
             box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
         }
         .content-section {
